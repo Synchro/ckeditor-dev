@@ -1,5 +1,5 @@
 ﻿/**
- * @license Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
+ * @license Copyright (c) 2003-2014, CKSource - Frederico Knabben. All rights reserved.
  * For licensing, see LICENSE.md or http://ckeditor.com/license
  */
 
@@ -84,6 +84,7 @@ CKEDITOR.lang[ 'pl' ] = {
 		alignTop: 'Do góry',
 		alignMiddle: 'Do środka',
 		alignBottom: 'Do dołu',
+		alignNone: 'Brak',
 		invalidValue	: 'Nieprawidłowa wartość.',
 		invalidHeight: 'Wysokość musi być liczbą.',
 		invalidWidth: 'Szerokość musi być liczbą.',

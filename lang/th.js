@@ -1,5 +1,5 @@
 ﻿/**
- * @license Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
+ * @license Copyright (c) 2003-2014, CKSource - Frederico Knabben. All rights reserved.
  * For licensing, see LICENSE.md or http://ckeditor.com/license
  */
 
@@ -84,6 +84,7 @@ CKEDITOR.lang[ 'th' ] = {
 		alignTop: 'บนสุด',
 		alignMiddle: 'กึ่งกลางแนวตั้ง',
 		alignBottom: 'ชิดด้านล่าง',
+		alignNone: 'None', // MISSING
 		invalidValue	: 'ค่าไม่ถูกต้อง',
 		invalidHeight: 'ความสูงต้องเป็นตัวเลข',
 		invalidWidth: 'ความกว้างต้องเป็นตัวเลข',

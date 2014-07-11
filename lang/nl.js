@@ -1,5 +1,5 @@
 ﻿/**
- * @license Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
+ * @license Copyright (c) 2003-2014, CKSource - Frederico Knabben. All rights reserved.
  * For licensing, see LICENSE.md or http://ckeditor.com/license
  */
 
@@ -36,8 +36,8 @@ CKEDITOR.lang[ 'nl' ] = {
 		image: 'Afbeelding',
 		flash: 'Flash',
 		form: 'Formulier',
-		checkbox: 'Aanvinkvakje',
-		radio: 'Selectievakje',
+		checkbox: 'Selectievinkje',
+		radio: 'Keuzerondje',
 		textField: 'Tekstveld',
 		textarea: 'Tekstvak',
 		hiddenField: 'Verborgen veld',
@@ -74,7 +74,7 @@ CKEDITOR.lang[ 'nl' ] = {
 		langDirLTR: 'Links naar rechts (LTR)',
 		langDirRTL: 'Rechts naar links (RTL)',
 		styles: 'Stijl',
-		cssClasses: 'Stylesheet klassen',
+		cssClasses: 'Stylesheet-klassen',
 		width: 'Breedte',
 		height: 'Hoogte',
 		align: 'Uitlijning',
@@ -84,6 +84,7 @@ CKEDITOR.lang[ 'nl' ] = {
 		alignTop: 'Boven',
 		alignMiddle: 'Midden',
 		alignBottom: 'Onder',
+		alignNone: 'None', // MISSING
 		invalidValue	: 'Ongeldige waarde.',
 		invalidHeight: 'De hoogte moet een getal zijn.',
 		invalidWidth: 'De breedte moet een getal zijn.',

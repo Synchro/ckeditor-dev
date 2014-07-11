@@ -1,5 +1,5 @@
 ﻿/**
- * @license Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
+ * @license Copyright (c) 2003-2014, CKSource - Frederico Knabben. All rights reserved.
  * For licensing, see LICENSE.md or http://ckeditor.com/license
  */
 
@@ -84,6 +84,7 @@ CKEDITOR.lang[ 'sk' ] = {
 		alignTop: 'Nahor',
 		alignMiddle: 'Na stred',
 		alignBottom: 'Dole',
+		alignNone: 'None', // MISSING
 		invalidValue	: 'Neplatná hodnota.',
 		invalidHeight: 'Výška musí byť číslo.',
 		invalidWidth: 'Šírka musí byť číslo.',

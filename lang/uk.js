@@ -1,5 +1,5 @@
 ﻿/**
- * @license Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
+ * @license Copyright (c) 2003-2014, CKSource - Frederico Knabben. All rights reserved.
  * For licensing, see LICENSE.md or http://ckeditor.com/license
  */
 
@@ -84,6 +84,7 @@ CKEDITOR.lang[ 'uk' ] = {
 		alignTop: 'По верхньому краю',
 		alignMiddle: 'По середині',
 		alignBottom: 'По нижньому краю',
+		alignNone: 'Нема',
 		invalidValue	: 'Невірне значення.',
 		invalidHeight: 'Висота повинна бути цілим числом.',
 		invalidWidth: 'Ширина повинна бути цілим числом.',

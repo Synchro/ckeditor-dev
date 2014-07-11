@@ -1,5 +1,5 @@
 ﻿/**
- * @license Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
+ * @license Copyright (c) 2003-2014, CKSource - Frederico Knabben. All rights reserved.
  * For licensing, see LICENSE.md or http://ckeditor.com/license
  */
 
@@ -84,6 +84,7 @@ CKEDITOR.lang[ 'ca' ] = {
 		alignTop: 'Superior',
 		alignMiddle: 'Centre',
 		alignBottom: 'Inferior',
+		alignNone: 'None', // MISSING
 		invalidValue	: 'Valor no vàlid.',
 		invalidHeight: 'L\'alçada ha de ser un número.',
 		invalidWidth: 'L\'amplada ha de ser un número.',

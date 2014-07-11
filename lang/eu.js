@@ -1,5 +1,5 @@
 ﻿/**
- * @license Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
+ * @license Copyright (c) 2003-2014, CKSource - Frederico Knabben. All rights reserved.
  * For licensing, see LICENSE.md or http://ckeditor.com/license
  */
 
@@ -84,6 +84,7 @@ CKEDITOR.lang[ 'eu' ] = {
 		alignTop: 'Goian',
 		alignMiddle: 'Erdian',
 		alignBottom: 'Behean',
+		alignNone: 'None', // MISSING
 		invalidValue	: 'Balio ezegokia.',
 		invalidHeight: 'Altuera zenbaki bat izan behar da.',
 		invalidWidth: 'Zabalera zenbaki bat izan behar da.',

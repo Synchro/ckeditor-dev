@@ -1,5 +1,5 @@
 ﻿/**
- * @license Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
+ * @license Copyright (c) 2003-2014, CKSource - Frederico Knabben. All rights reserved.
  * For licensing, see LICENSE.md or http://ckeditor.com/license
  */
 
@@ -84,6 +84,7 @@ CKEDITOR.lang[ 'ro' ] = {
 		alignTop: 'Sus',
 		alignMiddle: 'Mijloc',
 		alignBottom: 'Jos',
+		alignNone: 'None', // MISSING
 		invalidValue	: 'Varloare invalida',
 		invalidHeight: 'Înălțimea trebuie să fie un număr.',
 		invalidWidth: 'Lățimea trebuie să fie un număr.',

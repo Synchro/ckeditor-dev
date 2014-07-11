@@ -1,5 +1,5 @@
 ﻿/**
- * @license Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
+ * @license Copyright (c) 2003-2014, CKSource - Frederico Knabben. All rights reserved.
  * For licensing, see LICENSE.md or http://ckeditor.com/license
  */
 
@@ -84,6 +84,7 @@ CKEDITOR.lang[ 'he' ] = {
 		alignTop: 'למעלה',
 		alignMiddle: 'לאמצע',
 		alignBottom: 'לתחתית',
+		alignNone: 'None', // MISSING
 		invalidValue	: 'ערך לא חוקי.',
 		invalidHeight: 'הגובה חייב להיות מספר.',
 		invalidWidth: 'הרוחב חייב להיות מספר.',

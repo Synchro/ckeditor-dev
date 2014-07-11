@@ -1,5 +1,5 @@
 ﻿/**
- * @license Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
+ * @license Copyright (c) 2003-2014, CKSource - Frederico Knabben. All rights reserved.
  * For licensing, see LICENSE.md or http://ckeditor.com/license
  */
 
@@ -20,7 +20,7 @@
 CKEDITOR.lang[ 'km' ] = {
 	// ARIA description.
 	editor: 'ឧបករណ៍​សរសេរ​អត្ថបទ​សម្បូរ​បែប',
-	editorPanel: 'Rich Text Editor panel', // MISSING
+	editorPanel: 'ផ្ទាំង​ឧបករណ៍​សរសេរ​អត្ថបទ​សម្បូរ​បែប',
 
 	// Common messages and labels.
 	common: {
@@ -84,6 +84,7 @@ CKEDITOR.lang[ 'km' ] = {
 		alignTop: 'ខាងលើ',
 		alignMiddle: 'កណ្តាល',
 		alignBottom: 'ខាងក្រោម',
+		alignNone: 'អត់',
 		invalidValue	: 'តម្លៃ​មិន​ត្រឹម​ត្រូវ។',
 		invalidHeight: 'តម្លៃ​កំពស់​ត្រូវ​តែ​ជា​លេខ។',
 		invalidWidth: 'តម្លៃ​ទទឹង​ត្រូវ​តែ​ជា​លេខ។',

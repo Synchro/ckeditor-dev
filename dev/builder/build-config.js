@@ -1,5 +1,5 @@
 /**
- * @license Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
+ * @license Copyright (c) 2003-2014, CKSource - Frederico Knabben. All rights reserved.
  * For licensing, see LICENSE.md or http://ckeditor.com/license
  */
 
@@ -12,7 +12,14 @@ var CKBUILDER_CONFIG = {
 		'.gitattributes',
 		'.idea',
 		'.mailmap',
-		'.DS_Store'
+		'.DS_Store',
+		'tests',
+		'package.json',
+		'bender.js',
+		'.bender',
+		'bender-err.log',
+		'bender-out.log',
+		'node_modules'
 	],
 	plugins: {
 		a11yhelp: 1,

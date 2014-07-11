@@ -1,5 +1,5 @@
 ﻿/**
- * @license Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
+ * @license Copyright (c) 2003-2014, CKSource - Frederico Knabben. All rights reserved.
  * For licensing, see LICENSE.md or http://ckeditor.com/license
  */
 
@@ -20,7 +20,7 @@
 CKEDITOR.lang[ 'vi' ] = {
 	// ARIA description.
 	editor: 'Bộ soạn thảo văn bản có định dạng',
-	editorPanel: 'Rich Text Editor panel', // MISSING
+	editorPanel: 'Bảng điều khiển Rich Text Editor',
 
 	// Common messages and labels.
 	common: {
@@ -54,7 +54,7 @@ CKEDITOR.lang[ 'vi' ] = {
 		longDescr: 'Mô tả URL',
 		cssClass: 'Lớp Stylesheet',
 		advisoryTitle: 'Nhan đề hướng dẫn',
-		cssStyle: 'Kiểu (style)',
+		cssStyle: 'Kiểu ',
 		ok: 'Đồng ý',
 		cancel: 'Bỏ qua',
 		close: 'Đóng',
@@ -76,7 +76,7 @@ CKEDITOR.lang[ 'vi' ] = {
 		styles: 'Kiểu',
 		cssClasses: 'Lớp CSS',
 		width: 'Chiều rộng',
-		height: 'chiều cao',
+		height: 'Chiều cao',
 		align: 'Vị trí',
 		alignLeft: 'Trái',
 		alignRight: 'Phải',
@@ -84,6 +84,7 @@ CKEDITOR.lang[ 'vi' ] = {
 		alignTop: 'Trên',
 		alignMiddle: 'Giữa',
 		alignBottom: 'Dưới',
+		alignNone: 'None', // MISSING
 		invalidValue	: 'Giá trị không hợp lệ.',
 		invalidHeight: 'Chiều cao phải là số nguyên.',
 		invalidWidth: 'Chiều rộng phải là số nguyên.',

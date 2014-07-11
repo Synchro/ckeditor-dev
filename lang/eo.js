@@ -1,5 +1,5 @@
 ﻿/**
- * @license Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
+ * @license Copyright (c) 2003-2014, CKSource - Frederico Knabben. All rights reserved.
  * For licensing, see LICENSE.md or http://ckeditor.com/license
  */
 
@@ -19,8 +19,8 @@
  */
 CKEDITOR.lang[ 'eo' ] = {
 	// ARIA description.
-	editor: 'Redaktilo por Riĉiga Teksto',
-	editorPanel: 'Rich Text Editor panel', // MISSING
+	editor: 'RiĉTeksta Redaktilo',
+	editorPanel: 'Panelo de la RiĉTeksta Redaktilo',
 
 	// Common messages and labels.
 	common: {
@@ -84,6 +84,7 @@ CKEDITOR.lang[ 'eo' ] = {
 		alignTop: 'Supre',
 		alignMiddle: 'Centre',
 		alignBottom: 'Malsupre',
+		alignNone: 'None', // MISSING
 		invalidValue	: 'Nevalida Valoro',
 		invalidHeight: 'Alto devas esti nombro.',
 		invalidWidth: 'Larĝo devas esti nombro.',

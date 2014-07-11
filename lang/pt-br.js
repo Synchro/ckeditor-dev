@@ -1,5 +1,5 @@
 ﻿/**
- * @license Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
+ * @license Copyright (c) 2003-2014, CKSource - Frederico Knabben. All rights reserved.
  * For licensing, see LICENSE.md or http://ckeditor.com/license
  */
 
@@ -18,8 +18,8 @@
  */
 CKEDITOR.lang[ 'pt-br' ] = {
 	// ARIA description.
-	editor: 'Editor de Texto',
-	editorPanel: 'Rich Text Editor panel', // MISSING
+	editor: 'Editor de Rich Text',
+	editorPanel: 'Painel do editor de Rich Text',
 
 	// Common messages and labels.
 	common: {
@@ -83,6 +83,7 @@ CKEDITOR.lang[ 'pt-br' ] = {
 		alignTop: 'Superior',
 		alignMiddle: 'Centralizado',
 		alignBottom: 'Inferior',
+		alignNone: 'Nenhum',
 		invalidValue	: 'Valor inválido.',
 		invalidHeight: 'A altura tem que ser um número',
 		invalidWidth: 'A largura tem que ser um número.',
